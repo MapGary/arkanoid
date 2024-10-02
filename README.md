@@ -1,4 +1,4 @@
-This project is a simple mini-game written in JavaScript - an Arkanoid game. 🎮
+This project is a simple mini-game written in JavaScript - an [Arkanoid game](https://mapgary.github.io/arkanoid/). 🎮
 
 Press the space bar to start the game 🚀
 
